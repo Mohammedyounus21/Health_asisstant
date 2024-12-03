@@ -1,0 +1,13 @@
+streamlit
+pickle-mixin
+plotly.express
+streamlit_option_menu
+scikit-learn
+pytesseract
+pillow
+pyPDF2
+reportlab
+librosa
+streamlit_drawable_canvas
+numpy
+openai

@@ -1,0 +1,12 @@
+streamlit run "C:\Users\younu\OneDrive\Desktop\multiple disease\multiplediseasepred.py.py"
+
+"C:\Users\younu\OneDrive\Desktop\multiple disease\image.png"
+
+D:\logo.jpg
+
+# Loading the saved models
+diabetes_model = pickle.load(open('C:/Users/younu/OneDrive/Desktop/multiple disease/dataset/diabetes_model.sav', 'rb'))
+
+heart_disease_model = pickle.load(open('C:/Users/younu/OneDrive/Desktop/multiple disease/dataset/heart_disease_model.sav', 'rb'))
+
+parkinsons_model = pickle.load(open('C:/Users/younu/OneDrive/Desktop/multiple disease/dataset/parkinsons_model.sav', 'rb'))
